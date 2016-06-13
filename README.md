@@ -1,6 +1,6 @@
 # Chemist-shop-database-management
 
-ABOUT THE PROJECT
+##ABOUT THE PROJECT
  
 The project deals around with the chemist shop records in which we add, delete, modify, search the records on the basis of id, name, price, quantity and to print the bill along with the discount offered by the shop owner to the various customers.
 This project is also user friendly and could be easily used by anyone.
